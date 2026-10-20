@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "updated": "2026-09-22",
+  "version": 2,
+  "updated": "2026-10-20",
   "baseUrl": "https://cdn.jsdelivr.net/gh/sparkl525/-v2.0@main",
-  "note": "简译 App 听力素材清单。builtin=true 的已内置在 APK，其余由「素材包」开关联网下载到手机。",
+  "note": "简译 App 听力素材清单。builtin=true 的已内置在 APK，其余由「素材包」开关联网下载到手机。VOA 为美国政府作品（公共域）。",
   "items": [
     {
       "id": "l-001",
@@ -67,6 +67,86 @@
       "text": "articles/l-004.lrc",
       "audio": "audio/l-004.mp3",
       "source": "21voa.com（VOA Learning English 存量，站点已停更）"
+    },
+    {
+      "id": "l-005",
+      "title": "PISA 2022: Students' Historic Setbacks",
+      "titleZh": "国际学生评估 PISA：疫情造成的全球滑坡",
+      "topic": "教育",
+      "level": "medium",
+      "words": 569,
+      "sentences": 43,
+      "durationSec": 381,
+      "builtin": false,
+      "hasAudio": true,
+      "audioBytes": 3049265,
+      "text": "articles/l-005.lrc",
+      "audio": "audio/l-005.mp3",
+      "source": "VOA Learning English（美国政府作品·公共域）"
+    },
+    {
+      "id": "l-006",
+      "title": "Cassini Finds Life-Ready Molecule on Enceladus",
+      "titleZh": "土卫二冰喷流中发现生命原料分子",
+      "topic": "天文",
+      "level": "medium",
+      "words": 638,
+      "sentences": 32,
+      "durationSec": 384,
+      "builtin": false,
+      "hasAudio": true,
+      "audioBytes": 3073924,
+      "text": "articles/l-006.lrc",
+      "audio": "audio/l-006.mp3",
+      "source": "VOA Learning English（美国政府作品·公共域）"
+    },
+    {
+      "id": "l-007",
+      "title": "The Most Mispronounced Words of 2023",
+      "titleZh": "2023 年最容易读错的词",
+      "topic": "语言文化",
+      "level": "easy",
+      "words": 478,
+      "sentences": 39,
+      "durationSec": 247,
+      "builtin": false,
+      "hasAudio": true,
+      "audioBytes": 1977539,
+      "text": "articles/l-007.lrc",
+      "audio": "audio/l-007.mp3",
+      "source": "VOA Learning English（美国政府作品·公共域）"
+    },
+    {
+      "id": "l-008",
+      "title": "American Stories: Rappaccini's Daughter (Part 1)",
+      "titleZh": "美国故事：拉帕奇尼的女儿（上）",
+      "topic": "文学名著",
+      "level": "medium",
+      "words": 1416,
+      "sentences": 83,
+      "durationSec": 830,
+      "builtin": false,
+      "hasAudio": true,
+      "audioBytes": 3320286,
+      "text": "articles/l-008.lrc",
+      "audio": "audio/l-008.mp3",
+      "source": "VOA Learning English（美国政府作品·公共域）"
+    },
+    {
+      "id": "l-009",
+      "title": "South Africa to Make HIV Prevention Rings",
+      "titleZh": "南非将量产女性防艾硅胶环",
+      "topic": "健康",
+      "level": "medium",
+      "words": 372,
+      "sentences": 23,
+      "durationSec": 239,
+      "builtin": false,
+      "hasAudio": true,
+      "audioBytes": 3827714,
+      "text": "articles/l-009.lrc",
+      "audio": "audio/l-009.mp3",
+      "source": "VOA Learning English（美国政府作品·公共域）"
     }
   ]
 }
